@@ -1,0 +1,7 @@
+function myFunction() {
+    document.getElementById("lm").innerHTML = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, ipsam! Nihil quo minima nulla atque!  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi sequi eum praesentium, sed illo exercitationem voluptatum aperiam unde vel corrupti molestiae obcaecati officiis enim explicabo voluptas natus laudantium possimus officia.";
+  }
+
+  function myFunction1() {
+    document.getElementById("lm1").innerHTML = "Quae atque vero modi quidem! Autem cupiditate fugit doloribus ad amet, asperiores provident commodi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus optio omnis praesentium, debitis nesciunt temporibus quas deleniti atque dignissimos dicta, et magni dolorum possimus corporis, nobis quibusdam ex eveniet explicabo officia voluptas. Quisquam, distinctio aliquid corporis quibusdam sed similique obcaecati enim ad porro fuga labore culpa praesentium dolores modi dignissimos quos. Nam assumenda odio eligendi? Aliquam fugiat, repellendus quisquam, consectetur aut harum esse corporis rem inventore provident unde est cumque. Dicta, porro illum assumenda laborum incidunt at velit quam, a, voluptatem eos optio? Beatae est, maiores illo deleniti aliquid perspiciatis voluptatibus quae quos fugiat earum et neque hic. Ea, numquam!";
+  }
